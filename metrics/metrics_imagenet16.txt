@@ -1,0 +1,18 @@
+
+                    imagenet16                      2024-07-02 21:07:38 | batch: 128, Learning Rate: 0.1, Weight Decay: 0.0005, Total epochs: 200  
+
+                    Model Name                    :  Accuracy      Total Parameters     Trainable Parameters   Non-Trainable Parameters    MBytes for Params  
+                      VGG16                       : 87.937500         14731344               14731344                  0                  58.925376      
+                    VGG16_step                    : 85.187500         14772978                838224                13934754              6.8365845      
+
+
+                    imagenet16                      2024-07-03 09:29:14 | batch: 32, Learning Rate: 0.1, Weight Decay: 0.0005, Total epochs: 200  
+
+                    Model Name                    :  Accuracy      Total Parameters     Trainable Parameters   Non-Trainable Parameters    MBytes for Params  
+                     resnet50                     : 86.250000         23533136               23533136                  0                  94.132544      
+                  resnet50_step                   : 91.875000         23533136               12214160               11318976              51.686384      
+                   mobilenetv2                    : 89.500000         2304608                2304608                   0                   9.218432      
+                 mobilenetv2_step                 : 89.250000         2368258                1276448                1091810               5.3787445      
+                  efficientnetb0                  : 85.187500         3601612                3601612                   0                  14.406448      
+               efficientnetb0_step                : 87.125000         3580302                1935724                1644578               8.1540405      
+                     stepnet                      : 87.375000         3979570                 202608                3776962               1.7546725      

@@ -1,0 +1,13 @@
+                     cifar100                       2024-07-01 12:09:56 | batch: 128, Learning Rate: 0.1, Weight Decay: 0.0005, Total epochs: 200  
+
+                    Model Name                    :  Accuracy      Total Parameters     Trainable Parameters   Non-Trainable Parameters    MBytes for Params  
+                      VGG16                       : 74.540000         14774436               14774436                  0                  59.097744      
+                    VGG16_step                    : 64.150000         14816070                881316                13934754              7.0089525      
+                     resnet50                     : 79.240000         23705252               23705252                  0                  94.821008      
+                  resnet50_step                   : 77.660000         23705252               12386276               11318976              52.374848      
+                   mobilenetv2                    : 72.820000         2412212                2412212                   0                   9.648848      
+                 mobilenetv2_step                 : 69.580000         2475862                1384052                1091810               5.8091605      
+                  efficientnetb0                  : 70.410000         3628576                3628576                   0                  14.514304      
+               efficientnetb0_step                : 64.390000         3607266                1962688                1644578               8.2618965      
+                     stepnet                      : 60.510000         3990574                 213612                3776962               1.7986885      
+
