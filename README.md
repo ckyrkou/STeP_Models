@@ -24,20 +24,20 @@ How to run:
 # CITE AS FOLLOWS
 @ARTICLE{10507028,
 
-  author={Kyrkou, Christos},
+        author={Kyrkou, Christos},
   
-  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+        journal={IEEE Transactions on Neural Networks and Learning Systems}, 
   
-  title={Toward Efficient Convolutional Neural Networks With Structured Ternary Patterns}, 
+        title={Toward Efficient Convolutional Neural Networks With Structured Ternary Patterns}, 
   
-  year={2024},
+        year={2024},
   
-  volume={},
+        volume={},
   
-  number={},
+        number={},
   
-  pages={1-8},
+        pages={1-8},
   
-  doi={10.1109/TNNLS.2024.3380827}
+        doi={10.1109/TNNLS.2024.3380827}
   
   }
