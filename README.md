@@ -1,4 +1,4 @@
-# STeP_Models
+# Efficient Convolutional Neural Networks with Structured Ternary Patterns
 Code that implements Convolutional Neural Networks using Structured Ternary Patterns (STeP)
 
 👷UNDER DEVELOPMENT
