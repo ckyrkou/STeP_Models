@@ -3,6 +3,9 @@ Code that implements Convolutional Neural Networks using Structured Ternary Patt
 
 👷UNDER DEVELOPMENT
 
+## Overview
+High efficiency deep learning models are necessary to facilitate their use in devices with limited resources but also to improve resources required for training. Convolutional neural networks typically exert severe demands on local device resources and this conventionally limits their adoption within mobile and embedded platforms. This paper presents work towards utilizing static convolutional filters generated from the space of local binary patterns and Haar features to design efficient convolutional neural network architectures. These are referred to as Structured Ternary Patterns (STeP) and can be generated during network initialization in a systematic way instead of having learnable weight parameters thus reducing the total weight updates. The ternary values require significantly less storage and with the appropriate low level implementation, can also lead to inference improvements.
+
 '''
 
 How to run:
@@ -21,7 +24,7 @@ How to run:
 
 * Compared to the original implementation the step_block is optimized further with the introduction of grouped convolutions.
 
-##  CITE AS FOLLOWS
+## CITE AS FOLLOWS
 
 Christos Kyrkou, "Toward Efficient Convolutional Neural Networks With Structured Ternary Patterns." *IEEE Transactions on Neural Networks and Learning Systems*, 2024, pp. 1-8. doi:[10.1109/TNNLS.2024.3380827](https://doi.org/10.1109/TNNLS.2024.3380827).
 
