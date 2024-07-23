@@ -6,9 +6,7 @@ Code that implements Convolutional Neural Networks using Structured Ternary Patt
 ## Overview
 High efficiency deep learning models are necessary to facilitate their use in devices with limited resources but also to improve resources required for training. Convolutional neural networks typically exert severe demands on local device resources and this conventionally limits their adoption within mobile and embedded platforms. This paper presents work towards utilizing static convolutional filters generated from the space of local binary patterns and Haar features to design efficient convolutional neural network architectures. These are referred to as Structured Ternary Patterns (STeP) and can be generated during network initialization in a systematic way instead of having learnable weight parameters thus reducing the total weight updates. The ternary values require significantly less storage and with the appropriate low level implementation, can also lead to inference improvements.
 
-'''
-
-How to run:
+## How to run:
 ```python
  python main.py --sn <model_name> --ds cifar10 --bs 32 --wd 5e-4
 ```
