@@ -23,13 +23,5 @@ How to run:
 
 # CITE AS FOLLOWS
 
-@ARTICLE{10507028,
-        author={Kyrkou, Christos},
-        journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-        title={Toward Efficient Convolutional Neural Networks With Structured Ternary Patterns}, 
-        year={2024},
-        volume={},
-        number={},
-        pages={1-8},
-        doi={10.1109/TNNLS.2024.3380827}
-  }
+Kyrkou, Christos. "Toward Efficient Convolutional Neural Networks With Structured Ternary Patterns." *IEEE Transactions on Neural Networks and Learning Systems*, 2024, pp. 1-8. doi:[10.1109/TNNLS.2024.3380827](https://doi.org/10.1109/TNNLS.2024.3380827).
+
