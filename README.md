@@ -22,22 +22,14 @@ How to run:
 * Compared to the original implementation the step_block is optimized further with the introduction of grouped convolutions.
 
 # CITE AS FOLLOWS
-@ARTICLE{10507028,
 
+@ARTICLE{10507028,
         author={Kyrkou, Christos},
-  
         journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-  
         title={Toward Efficient Convolutional Neural Networks With Structured Ternary Patterns}, 
-  
         year={2024},
-  
         volume={},
-  
         number={},
-  
         pages={1-8},
-  
         doi={10.1109/TNNLS.2024.3380827}
-  
   }
