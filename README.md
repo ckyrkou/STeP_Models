@@ -20,3 +20,15 @@ How to run:
 | --bs | Batch Size |
 
 * Compared to the original implementation the step_block is optimized further with the introduction of grouped convolutions.
+
+# CITE AS FOLLOWS
+@ARTICLE{10507028,
+  author={Kyrkou, Christos},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Toward Efficient Convolutional Neural Networks With Structured Ternary Patterns}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Kernel;Training;Quantization (signal);Filters;Neural networks;Convolutional neural networks;Convolutional codes;Convolutional neural networks (ConvNets);deep learning (DL);Haar features;local binary patterns (LBPs);object detection},
+  doi={10.1109/TNNLS.2024.3380827}}
