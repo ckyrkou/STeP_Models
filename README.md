@@ -21,10 +21,11 @@ How to run:
 
 * Compared to the original implementation the step_block is optimized further with the introduction of grouped convolutions.
 
-# CITE AS FOLLOWS
+##  CITE AS FOLLOWS
 
 Christos Kyrkou, "Toward Efficient Convolutional Neural Networks With Structured Ternary Patterns." *IEEE Transactions on Neural Networks and Learning Systems*, 2024, pp. 1-8. doi:[10.1109/TNNLS.2024.3380827](https://doi.org/10.1109/TNNLS.2024.3380827).
 
+## Other Resources
  [arxiv📜 ](https://arxiv.org/abs/2407.14831)
  [zenodo📜 ](https://zenodo.org/uploads/12784350)
 
