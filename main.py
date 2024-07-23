@@ -53,7 +53,7 @@ parser = argparse.ArgumentParser(description='PyTorch CIFAR10 Training')
 parser.add_argument('--lr', default=0.1, type=float, help='learning rate')
 parser.add_argument('--ds', default='cifar10', help='Dataset to train on')
 parser.add_argument('--wd', default=5e-4, type=float, help='weight decay')
-parser.add_argument('--sn', default='VGG16_rand', help='File Save Name')
+parser.add_argument('--sn', default='mobilenetv2', help='File Save Name')
 parser.add_argument('--epochs', default=200, type=int, help='Total number of epochs')
 parser.add_argument('--bs', default=128, type=int, help='Batch Size')
 parser.add_argument('--resume', '-r', action='store_true',
